@@ -1,13 +1,12 @@
 <template>
     <div class="home">
         <h1>Home</h1>
-        <p>Welcome to your new Dev portafolio - Arvic! aun en construción</p>
+        <p>¡Ups! Mi DevFolio está en construcción, pero pronto será épico 🚀</p>
         <span style="font-family: Arial, sans-serif; font-size: 100px;">🥺</span>
     </div>
 </template>
 
 <style scoped>
-
 .home {
     display: flex;
     flex-direction: column;
@@ -16,5 +15,4 @@
     height: 100vh;
     text-align: center;
 }
-
 </style>
